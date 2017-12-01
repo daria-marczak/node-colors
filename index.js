@@ -1,6 +1,5 @@
 var os = require("os");
 var OSinfo = require("./modules/OSinfo");
-var colors = require("colors");
 var EventEmitter = require("events").EventEmitter;
 
 
